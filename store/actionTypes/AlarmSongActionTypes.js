@@ -1,0 +1,3 @@
+export const ALARM_SONGS_GET = 'ALARM_SONGS_GET';
+export const ALARM_SONGS_SET = 'ALARM_SONGS_SET';
+export const ALARM_PLAYING_SET = 'ALARM_PLAYING_SET';

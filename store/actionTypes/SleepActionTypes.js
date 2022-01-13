@@ -1,0 +1,10 @@
+export const SLEEPS_GET = 'SLEEPS_GET';
+export const SLEEPS_SET = 'SLEEPS_SET';
+export const SLEEPS_APPEND = 'SLEEPS_APPEND';
+export const SLEEPS_LOAD_MORE = 'SLEEPS_LOAD_MORE';
+
+export const ACTIVE_SLEEP_SET = 'ACTIVE_SLEEP_SET';
+export const ACTIVE_SLEEP_GET = 'ACTIVE_SLEEP_GET';
+
+export const GET_SLEEP_TABS = 'GET_SLEEP_TABS';
+export const SET_SLEEP_TABS = 'SET_SLEEP_TABS';

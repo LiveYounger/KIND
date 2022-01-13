@@ -1,0 +1,172 @@
+{
+  "helloWorld": "Hello World",
+  "common": {
+    "ok": "OK",
+    "success": "success",
+    "send": "Send",
+    "cancel": "Cancel",
+    "offline": "Please check your Internet connection",
+    "back": "Back",
+    "visitOurWebsite": "Visit Our Website",
+    "intro": "When it comes to living out brest lives, we know the secret is captuiring 'Living Young' Cells are born ypung and behaving healthy",
+    "liveYounger": "Live younger",
+    "learnMore": "Learn More"
+  },
+  "main": {
+    "forYou": "For You",
+    "sleep": "Sleep",
+    "library": "Library",
+    "heal": "Heal",
+    "meditate": "Meditate",
+    "sleeps": "Sleeps",
+    "more": "More"
+  },
+  "auth": {
+    "continueWithEmail": "Continue with email",
+    "continueWithGoogle": "Continue with Google",
+    "continueWithFacebook": "Continue with Facebook",
+    "continueWithApple": "Continue with Apple",
+    "signUp": "Sign up",
+    "signIn": "Sign in",
+    "enterFirstName": "Enter your first name",
+    "enterLastName": "Enter your last name",
+    "enterEmail": "Enter your email",
+    "enterPassword": "Enter your password",
+    "confirmPassword": "Confirm your password",
+    "passwordsMustMatch": "Passwords must match",
+    "changePass": "Change password",
+    "haveAccount": "Have an account?",
+    "enterNewPass": "Enter new password",
+    "confirmPass": "Confirm password",
+    "passwordSuccessfullyChanged": "Password successfully changed",
+    "invalidCredentials": "Email/password combination is incorrect.",
+    "emailDoesNotExist": "Email does not exist",
+    "sendEmail": "Send email",
+    "forgotPasswordText": "Password must include a symbol or number and have at least 8 characters.",
+    "forgotPasswordIntro": "Enter your e-mail address, and we will send you magic link.",
+    "forgotPasswordSuccess": "Email with reset password link has been sent to you",
+    "resetPassword": "Reset password",
+    "invalidToken": "Invalid or expired token",
+    "passwordResetSucces": "Your password has been successfully reset",
+    "createAccount": "Create account",
+    "forgotPassword": "Forgot password?",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "validation": {
+    "firstNameIsRequired": "First name is required.",
+    "lastNameIsRequired": "Last name is required.",
+    "emailIsRequired": "Email is required.",
+    "passwordIsRequired": "Password is required.",
+    "confirmPasswordIsRequired": "Confirm password is required.",
+    "currentPasswordIsRequired": "Current password is required.",
+    "newPasswordIsRequired": "New password is required.",
+    "newPasswordConfirmationIsRequired": "New password confirmation is required",
+
+    "mustBeValidEmail": "Email must be a valid email format.",
+    "passwordsMustMatch": "Passwords must match.",
+    "passwordMinCharacters": "Password must be at least 8 characters.",
+    "confirmPasswordMinCharacters": "Password confirmation must be at least 8 characters.",
+    "currentPasswordMinCharacters": "Current password must be at least 8 characters.",
+    "newPasswordMinCharacters": "New assword must be at least 8 characters.",
+    "newPasswordConfirmationMinCharacters": "New password confirmation must be at least 8 characters.",
+    "passwordShouldSpecCharOrNumber": "Password must include a symbol or number and have at least 8 characters."
+
+  },
+  "error": {
+    "somethingWrong": "Something went wrong",
+    "doYouWantToRestart": "Do you want to restart application",
+    "restart": "Restart",
+    "cancel": "Cancel",
+    "socialLoginError": "Social login error",
+    "close": "Close"
+  },
+  "profile": {
+    "changePassword": {
+      "changePassword": "Change password",
+      "currentPassword": "Current password",
+      "newPassword": "New password",
+      "confirmNewPassword": "Confirm new password",
+      "change": "Change",
+      "invalidOldPassword": "Old password is incorrect.",
+      "passwordChanged": "Password Changed",
+      "passwordChangedSuccess": "Password has been changed"
+    },
+    "updateUser": {
+      "updateProfile": "Edit profile",
+      "termsAndConditions": "Terms and Conditions",
+      "privacyPolicy": "Privacy Policy",
+      "resetPassword": "Reset password",
+      "email": "Your Email",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "update": "Update",
+      "importImage": "Import image",
+      "importFromGallery": "Import from gallery",
+      "takePicture": "Take picture",
+      "noPermissions": "No permissions"
+    }
+  },
+  "scenes": {
+    "scene": "Scene",
+    "scenes": "Scenes",
+    "sceneVolume": "Scene Volume",
+    "downloading": "Downloading video scene...",
+    "playOutsideOfApp": "Play sounds outside of app",
+    "setScene": "Set scene"
+  },
+  "sleeps": {
+      "categoryAll": "All"
+  },
+  "forYou": {
+    "goodMorning": "Good morning",
+    "goodAfternoon": "Good afternoon",
+    "goodEvening": "Good evening"
+  },
+  "audioPlayer": {
+    "currentlyPlaying": "Currently Playing",
+    "recentlyPlayer": "Recently Played"
+  },
+  "premium": {
+    "unlock": "Unlock Kind",
+    "trialPeriodAndPrice": "Try :duration free, then :price/:period",
+    "startTrialNow": "Start Free Trial Now",
+    "cancelAnytime": "Cancel anytime",
+    "purchaseNotCompleted": "The purchase was not completed successfully.",
+    "failedToActivatePremium": "Failed to activate premium on your account. The payment will be refunded.",
+    "days": "days",
+    "year": "year",
+    "alreadyPurchased": "Already purchased?"
+  },
+  "meditate": {
+    "meditateScreenDesc": "Vivamus eu ullamcorper justo. Quisque pretium ut nunc  dolor augue"
+  },
+  "confirmExit": {
+    "exitApp": "Close Kind",
+    "areYouSure": "Are you sure you want to close the app?",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "section": {
+    "of": "{{percente}} of 100%"
+  },
+  "timers": {
+    "sleep": "Sleep",
+    "bedtime": "Bedtime",
+    "bedtimeSongs": "Bedtime songs",
+    "startBedtime": "Start Bedtime",
+    "wakeUp": "Wake up",
+    "wakeUpTime": "Wake Up Time",
+    "time": "Time",
+    "wakeUpSongs": "Wake Up Songs",
+    "startWakeUp": "Start Wake up",
+    "stopWakeUp": "Stop Wake up",
+    "stopBedtime": "Stop Bedtime",
+    "sleepTimer": "Best Me",
+    "notSet": "Not Set",
+    "setAlarm": "Set Alarm",
+    "stop": "STOP",
+    "turnOff": "Turn Off",
+    "turnOn": "Turn On"
+  }
+}

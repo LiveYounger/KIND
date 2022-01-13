@@ -1,0 +1,58 @@
+{
+  "expo": {
+    "name": "Kind",
+    "description": "A very interesting project.",
+    "slug": "development",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo-icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.liveyoungerhealth.LiveYounger",
+      "publishBundlePath": "ios/LiveYounger/Supporting/shell-app.bundle",
+      "publishManifestPath": "ios/LiveYounger/Supporting/shell-app-manifest.json"
+
+    },
+    "hooks": {
+      "postPublish": []
+    },
+    "facebookScheme": "fb2798210490432724",
+    "facebookDisplayName": "LiveYoungerTest",
+    "facebookAppId": "2798210490432724",
+    "android": {
+      "package": "com.vivifyideas.liveyounger"
+    },
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "expo.ts",
+        "expo.tsx",
+        "expo.js",
+        "expo.jsx",
+        "ts",
+        "tsx",
+        "js",
+        "jsx",
+        "json",
+        "wasm",
+        "svg"
+      ]
+    }
+  }
+}
